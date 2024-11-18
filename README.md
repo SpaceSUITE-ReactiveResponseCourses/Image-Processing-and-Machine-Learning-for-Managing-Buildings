@@ -1,1 +1,1 @@
-# Image-Processing-and-Machine-Learning-for-Managing-Buildings
+# Image Processing and Machine Learning for Managing Buildings
